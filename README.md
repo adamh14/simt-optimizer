@@ -11,9 +11,9 @@ Neoficiální nástroj pro zrychlení hry **Simt Simulator**. Zlepšuje plynulos
 3. Spusťte program dvojklikem na soubor `Optimalizovat.bat`.
 4. Počkejte na dokončení procesu. Nic se nemusí instalovat.
 
-> 🛡️ **Hlásí vám to Antivirus?** Nástroj používá PowerShell, což některé antiviry (např. Windows Defender) nemají rády a mohou ho zablokovat. Jde o planý poplach. Pokud se to stane, udělte programu výjimku.
+> **Hlásí vám to Antivirus?** Nástroj používá PowerShell, což některé antiviry (např. Windows Defender) nemají rády a mohou ho zablokovat. Jde o planý poplach. Pokud se to stane, udělte programu výjimku.
 
-### ↩️ Jak vše vrátit zpět?
+### Jak vše vrátit zpět?
 Pokud se po optimalizaci hra chová divně (nebo se vám něco nezdá):
 1. Znovu spusťte `Optimalizovat.bat`.
 2. Program zjistí, že záloha už existuje, a **nabídne vám vrácení původních souborů**.
