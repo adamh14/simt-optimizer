@@ -20,7 +20,6 @@ Pokud se po optimalizaci hra chová divně (nebo se vám něco nezdá):
 3. *Alternativně:* Pokud vrácení nepomůže, jednoduše přeinstalujte hru (program nezasahuje do systémových souborů hry, jen do textur a .ini).
 
 ---
----
 
 # 🛠 Technické detaily (Pro pokročilé)
 
